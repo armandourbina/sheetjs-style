@@ -1,8 +1,8 @@
 {
-	"name": "sheetjs-style-strict",
+	"name": "sheetjs-style-v2",
 	"version": "0.15.6",
 	"author": "sheetjs",
-	"description": "SheetJS Spreadsheet data parser and writer",
+	"description": "SheetJS Spreadsheet data parser and writer ",
 	"keywords": [
 		"excel",
 		"xls",

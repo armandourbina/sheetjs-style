@@ -1,7 +1,7 @@
 
 # Sheetjs-style
 support set cell style for sheetjs!
-API is the same as sheetjs!
+API is the same as sheetjs-style but with some fixes to work with strict mode in angular 8!
 
 
 ## install
@@ -17,7 +17,7 @@ for example:
 ```js
 ws["A1"].s = {									// set the style for target cell
   font: {
-    name: '宋体',
+    name: 'Calibri',
     sz: 24,
     bold: true,
     color: { rgb: "FFFFAA00" }
