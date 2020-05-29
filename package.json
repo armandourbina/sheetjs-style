@@ -1,5 +1,5 @@
 {
-	"name": "sheetjs-style",
+	"name": "sheetjs-style-strict",
 	"version": "0.15.6",
 	"author": "sheetjs",
 	"description": "SheetJS Spreadsheet data parser and writer",
